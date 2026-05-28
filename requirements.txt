@@ -1,0 +1,7 @@
+numpy
+openvino-genai
+optimum-intel[openvino]
+requests
+sounddevice
+soundfile
+transformers

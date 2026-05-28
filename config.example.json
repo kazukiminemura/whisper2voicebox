@@ -1,0 +1,19 @@
+{
+  "voicevox_engine_path": null,
+  "voicevox_auto_install": true,
+  "voicevox_engine_package": "windows-cpu",
+  "voicevox_install_dir": "tools/voicevox_engine",
+  "voicevox_engine_args": ["--host", "127.0.0.1", "--port", "50021"],
+  "voicevox_url": "http://127.0.0.1:50021",
+  "speaker_name": "ずんだもん",
+  "speaker_style": "ノーマル",
+  "whisper_model_id": "openai/whisper-large-v3",
+  "whisper_model_dir": "models/whisper-large-v3-openvino",
+  "openvino_weight_format": "fp16",
+  "openvino_device": "GPU",
+  "sample_rate": 16000,
+  "input_device": null,
+  "output_device": null,
+  "max_new_tokens": 256,
+  "language": "<|ja|>"
+}
